@@ -1,14 +1,14 @@
 {
-  "root": "0x648e1e90feacb2a2820973384d1334746ce258f425e2a8564e475ba25770fbd3",
+  "root": "0xfd289382d0ff578987a3e8eddf7969379aedf039589b6ba5460d7ab1c499de16",
   "rewards": [
     {
       "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
-      "amount": "1",
+      "amount": "1.0",
       "leaf": "0xa0d0d8691062c00fe1600ce2a7f9ef19bab91e1e62c3abfd5e5f1663aee2d56b",
       "proof": [
         "0x74f61ce2117ea803a8d0372828edf36cbb683659fc4da87d361fd49527091f47",
         "0xe415c786ed612f7da9cdccc226bc7ca22252e9c1ae85638834f6551d2fdef6d6",
-        "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686"
+        "0xa837a419cf75097a398881127f14c5e4448a19541f38c8e67c87be9637aae1e3"
       ]
     },
     {
@@ -18,7 +18,7 @@
       "proof": [
         "0x08ace6f28016ecdf34885cf7fe1b5f4ec7bab9caab6a3b75911c4bf64bdf53b3",
         "0x8a1bc4cfdb64758fd69a3f11bd51a97b8c08d18d2f032ad42cc9fc3e59600a79",
-        "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686"
+        "0xa837a419cf75097a398881127f14c5e4448a19541f38c8e67c87be9637aae1e3"
       ]
     },
     {
@@ -28,7 +28,7 @@
       "proof": [
         "0x5e3c0f21131935aca14bea6e388a5f1f19b2db068d4f4aac811255f1c33153ce",
         "0x8a1bc4cfdb64758fd69a3f11bd51a97b8c08d18d2f032ad42cc9fc3e59600a79",
-        "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686"
+        "0xa837a419cf75097a398881127f14c5e4448a19541f38c8e67c87be9637aae1e3"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "proof": [
         "0xa0d0d8691062c00fe1600ce2a7f9ef19bab91e1e62c3abfd5e5f1663aee2d56b",
         "0xe415c786ed612f7da9cdccc226bc7ca22252e9c1ae85638834f6551d2fdef6d6",
-        "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686"
+        "0xa837a419cf75097a398881127f14c5e4448a19541f38c8e67c87be9637aae1e3"
       ]
     },
     {
@@ -46,9 +46,18 @@
       "amount": "0.14",
       "leaf": "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686",
       "proof": [
+        "0xf0276736518483a882d7b7fbdad761c4aee167510d4baea2b847c4a1ed201521",
+        "0x4c299f01b16e7cd7b207f9a8136e889724fea070028c1d85a6835dccf99859f2"
+      ]
+    },
+    {
+      "address": "0xF46Ca1696d5D98eCceFd94D4aCb4A6504b32E8dC",
+      "amount": "0.001463017",
+      "leaf": "0xf0276736518483a882d7b7fbdad761c4aee167510d4baea2b847c4a1ed201521",
+      "proof": [
+        "0xeb788ff5087ce49696b7d9d2fed9ce611a33efb51d991d5f44b755dec91fc686",
         "0x4c299f01b16e7cd7b207f9a8136e889724fea070028c1d85a6835dccf99859f2"
       ]
     }
   ]
 }
-
